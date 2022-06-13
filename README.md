@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ali Burhan</h1>
 <h3 align="center">A passionate frontend and mobile developer</h3>
 
-- 🔭 I’m currently working on [MilvaSoft](https://github.com/Milvasoft)
+- 🔭 I’m currently working on [Milvasoft](https://github.com/Milvasoft)
 
-- 👯 I’m looking to collaborate on [MilvaSoft](https://github.com/Milvasoft)
+- 👯 I’m looking to collaborate on [Milvasoft](https://github.com/Milvasoft)
 
-- 🤝 I’m looking for help with [MilvaSoft](https://github.com/Milvasoft)
+- 🤝 I’m looking for help with [Milvasoft](https://github.com/Milvasoft)
 
 - 💬 Ask me about **React, Next JS, React Native, Expo SDK,**
 
