@@ -16,7 +16,7 @@
 - <a href="https://www.opsiyonerp.com" target="blank">OPS!YON ERP</a>
 - <a href="https://www.opsiyonerp.com" target="blank">OPS!YON Personnel App</a>
 - <a href="https://www.opsiyonapp.com" target="blank">OPS!YON Customer App</a>
-- <a href="https://obenimkedim.com/" target="blank">Obeinmkedim App</a>
+- <a href="https://obenimkedim.com/" target="blank">Obenimkedim App</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
