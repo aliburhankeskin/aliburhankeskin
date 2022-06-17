@@ -33,7 +33,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://medium.com/@burhankeskin_30209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@burhankeskin_30209" height="30" width="40" /></a>
+<a href="https://medium.com/@burhankeskin_30209" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36799589/96227773-3acc6080-0fb2-11eb-837f-f5026d472969.jpg" alt="@burhankeskin_30209" height="30" width="40" /></a>
 <a href="https://twitter.com/aliburhankeskin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aliburhankeskin" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ali-burhan-keskin-b07235155/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ali-burhan-keskin-b07235155/" height="30" width="40" /></a>
 </p>
