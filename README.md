@@ -15,7 +15,7 @@
 
 - <a href="https://github.com/Milvasoft/milva-admin-generator" target="blank">Milva Admin Generator</a>
 - <a href="https://github.com/Milvasoft/expo-boilerplate" target="blank">Expo BoilerPlate</a>
-- <a href="https://github.com/Milvasoft/nextjs-website-template" target="blank">Next.Js Website BoilerPlate/a>
+- <a href="https://github.com/Milvasoft/nextjs-website-template" target="blank">Next.Js Website BoilerPlate</a>
 
 <h3 align="left">Projects</h3>
 
