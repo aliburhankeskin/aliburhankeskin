@@ -10,7 +10,7 @@
 - 💬 Ask me about **React, Next JS, React Native, Expo SDK,**
 
 - 📫 How to reach me **keskincialik@gmail.com**
-- 
+
 <h3 align="left">Open Source Projects</h3>
 
 - <a href="https://github.com/Milvasoft/milva-admin-generator" target="blank">Milva Admin Generator</a>
